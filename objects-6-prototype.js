@@ -69,4 +69,4 @@ NinthGrader.prototype.sayName = function () {
 };
 
 const carl2 = new EighthGrader2('carl');
-carl2.sayName(); //uh oh! this logs "HAHAHAHAHAHA" because we edited the sayName function!
+carl2.sayName(); // uh oh! this logs "HAHAHAHAHAHA" because we edited the sayName function!
